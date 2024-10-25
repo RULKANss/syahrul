@@ -8,3 +8,8 @@ Program ini dibuat menggunakan bahasa Python dengan fitur:
 - Menggunakan break statement untuk menghentikan program
 - Membandingkan setiap input dengan nilai maksimum yang tersimpan
 - Menampilkan bilangan terbesar yang ditemukan
+
+
+## Flowchart program
+![flocart2](/flocart 2.png)
+
