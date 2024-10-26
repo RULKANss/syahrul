@@ -1,4 +1,4 @@
-## Program mencari bilangan terbesar
+## 1. Program mencari bilangan terbesar
 Program sederhana untuk mencari nilai terbesar dari sekumpulan bilangan yang dimasukkan oleh pengguna menggunakan loop while True dan break statement.
 
 
@@ -39,3 +39,17 @@ bilangan terbesar= 1000000000
 
 ## Cara kerja program
 Kode ini menerima masukan bilangan dari pengguna dan mencetak bilangan terbesar yang dimasukkan. Kode ini berfungsi dengan menyimpan nilai terbesar dalam variabel 'max', dan membandingkannya dengan setiap bilangan baru yang dimasukkan. Jika bilangan baru lebih besar dari 'max', maka 'max' akan diperbarui dengan nilai bilangan baru. Kode ini akan terus meminta masukan hingga pengguna memasukkan 0. Setelah itu, bilangan terbesar yang dimasukkan akan dicetak.
+
+
+
+## 2. Bilangan terbesar 3 variabel
+Program sederhana untuk menentukan bilangan terbesar dari tiga angka yang diinputkan pengguna.
+
+## Deskripsi program
+Program ini sebagai berikut
+- Meminta user memasukkan 3 bilangan berbeda
+- Membandingkan ketiga bilangan tersebut
+- Menentukan bilangan mana yang terbesar
+- Menampilkan hasilnya ke layar
+
+  
