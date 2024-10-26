@@ -28,12 +28,13 @@ print (f"bilangan terbesar= {max}")
 
 ## out-put program
 ```
-masukan bilangan : 200000
-masukan bilangan : 3000
-masukan bilangan : 400
-masukan bilangan : 22 
+PS C:\project ai> & C:/Users/Syahrul/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/project ai/rul.py"
+masukan bilangan : 111
+masukan bilangan : 11
+masukan bilangan : 10122
+masukan bilangan : 1
 masukan bilangan : 0
-bilangan terbesar= 1000000000
+bilangan terbesar= 10122
 ```
 
 
